@@ -1,3 +1,5 @@
+page:
+  title: "欢迎来到我的空间！"
 theme: jekyll-theme-hacker
 github:
   is_project_page: false
